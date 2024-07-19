@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="krStoreReportProcessor" verbose="1" >
+    <listeners>
+        <listener class-name="com.org.yaapita.YaapitaListener"/>
+    </listeners>
+    <test name="firsttest">
+        <classes>
+
+             <class name ="com.kroger.KrQueVisionReport.FunctionalTest"></class>
+
+        </classes>
+
+    </test>
+</suite>
