@@ -1,0 +1,2 @@
+# KrQueVisionReport
+SOA-QA
